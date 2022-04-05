@@ -1,0 +1,18 @@
+• Qual será a saída se atribuirmos no início os valores 1, 2 e 3 a n1, n2 e n3, respectivamente?
+
+1, 2, 3
+
+• Qual será a saída se atribuirmos no início os valores 20, 10 e 30 a n1, n2 e n3, respectivamente?
+
+10,20,30
+
+• Qual será a saída se atribuirmos no início os valores 5*5, n1/2 e n2+1 a n1, n2 e n3, respectivamente?
+
+12, 13, 25
+
+• O que o programa faz, exatamente? Explique o funcionamento do algoritmo.
+
+Este programa verifica se n2 é maior ou igual a n3, caso isso seja verdadeiro, ele troca o valor dessas variáveis.
+Após isso ele verifica se n1 é maior ou igual a n2, caso isso seja verdadeiro ele troca o valor dessas variáveis 
+e checa se n2 é maior ou igual a n3 novamente, trocando seus valores. Ao final ele imprime na tela os valores 
+de n1, n2 e n3 respectivamente.  
